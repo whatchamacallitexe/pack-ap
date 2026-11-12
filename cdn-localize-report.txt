@@ -1,30 +1,11 @@
-FILE waluigitacostand: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
-FILE waluigitacostand: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE warfare1944: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE warfare1944: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@9c2d92f8128576153dbd00e120ce7138b5a0403e/warfare_1944.swf -> ../_shared/926baa570941-warfare_1944.swf
-FILE warioland4: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
-FILE warioland4: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/warioland4/Wario%20Land%204%20(USA%2C%20Europe).zip -> assets/cdn/6551968f-Wario_Land_4_USA_Europe_.zip
-FILE warioland4: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE wariowarediy: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
-FILE wariowarediy: https://cdn.jsdelivr.net/gh/bubbls/ugss@05b28f491a9500ce7dc5e88455f21823b6d3e1ab/WarioWare%20-%20D.I.Y.%20(USA).zip -> assets/cdn/7f8d1267-WarioWare_-_D.I.Y._USA_.zip
-FILE wariowarediy: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE wariowareinc: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
-FILE wariowareinc: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@3d6e2dc94749dc3bbf0d8026bd2eafc7f7a1de2c/WarioWare%2C%20Inc.%20-%20Mega%20Microgame%24!%20(USA).zip -> assets/cdn/293a9ec9-WarioWare_Inc._-_Mega_Microgame_USA_.zip
-FILE wariowareinc: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-BASE OK Stinkalistic/UGS@main/MISC/webecomewhatwebehold -> webecomewhatwebehold
-BASE REWRITE webecomewhatwebehold
-BASE OK genizy/web-port@main/web-fishing -> webfishing
-BASE REWRITE webfishing
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE wheely: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE wheely: https://cdn.jsdelivr.net/gh/Oozaru341/ClickJogos@a18a27ddb0e3fe3f0c48225a5908607023c90523/jogos/games/wheely.swf -> ../_shared/d34f64d95762-wheely.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE wheely2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE wheely2: https://cdn.jsdelivr.net/gh/Oozaru341/ClickJogos@a18a27ddb0e3fe3f0c48225a5908607023c90523/jogos/games/wheely2.swf -> ../_shared/cd3f09eee48c-wheely2.swf
-FILE wolfenstein3d: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
-FILE wolfenstein3d: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Wolfenstein%203D%20(World).zip -> assets/cdn/ef44d566-Wolfenstein_3D_World_.zip
-FILE wolfenstein3d: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
